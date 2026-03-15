@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="-443.7 246.2 69.5 69.5" style="enable-background:new -443.7 246.2 69.5 69.5;" xml:space="preserve">
+<style type="text/css">
+	.colored_purple{fill:#C3C3C3;}
+	.colored_white{fill:#FFFFFF;}
+</style>
+<g class="svgicon">
+	<path class="colored_purple" d="M-374.2,312.2c0,1.9-1.6,3.5-3.5,3.5h-62.5c-1.9,0-3.5-1.6-3.5-3.5v-62.5c0-1.9,1.6-3.5,3.5-3.5h62.5c1.9,0,3.5,1.6,3.5,3.5V312.2z"/>
+	<g>
+		<path class="colored_white" d="M-398.5,298.1h-9.1l-6,6h-6v-6h-11.1v-32.2l3-8h41.2v28.2L-398.5,298.1z M-390.4,284v-22.1h-33.2v29.2h9.1v6l6-6h11.1L-390.4,284z"/>
+		<g id="Solo_Glitch_2_">
+			<g>
+				<path class="colored_white" d="M-401.5,269.9V282h4v-12.1H-401.5z M-412.6,282h4v-12.1h-4C-412.6,269.9-412.6,282-412.6,282z"/>
+			</g>
+		</g>
+	</g>
+</g>
+</svg>
